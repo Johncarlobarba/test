@@ -1,0 +1,9 @@
+body {
+    background-image: url("jack.jpg");
+    background-color: rgb(243, 235, 237);
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    color: rgb(241, 228, 233);
+}
